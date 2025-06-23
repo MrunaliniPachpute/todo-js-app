@@ -1,2 +1,47 @@
-# todo-js-app
-A simple yet functional To-Do List built using HTML, CSS, and JavaScript. Add and delete tasks easily with a clean user interface.
+# ✅ JavaScript To-Do List App
+
+A clean and simple **To-Do List** app built using **vanilla JavaScript**, designed to help you manage daily tasks with ease.  
+Add and remove tasks instantly — a great mini project for mastering DOM manipulation and events!
+
+---
+
+## 🔗 Live Demo
+
+[![To-Do App Preview](https://api.microlink.io/?url=https://mrunalinipachpute.github.io/todo-js-app/&screenshot=true&meta=false&embed=screenshot.url)](https://mrunalinipachpute.github.io/todo-js-app/)
+
+👉 [Try the app here](https://mrunalinipachpute.github.io/todo-js-app/)
+
+---
+
+## ✨ Features
+
+- ➕ Add new tasks
+- ❌ Remove tasks with one click
+- 🧾 Pre-added sample items to show functionality
+- 🎯 Clean and responsive UI
+- 🛠️ Great for practicing core JavaScript concepts
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML
+- CSS
+- JavaScript (Vanilla)
+
+---
+
+## 📝 How to Use
+
+1. Open the [Live App](https://mrunalinipachpute.github.io/todo-js-app/)
+2. Enter your task in the input field
+3. Click **“Add”** to add it to the list
+4. Click the ❌ icon to remove a task
+
+---
+
+## 📌 Preloaded Tasks
+
+```text
+☐ Finish JavaScript mini project  
+☐ Apply for 2 internships today
