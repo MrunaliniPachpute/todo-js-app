@@ -5,6 +5,16 @@ Add and remove tasks instantly — a great mini project for mastering DOM manipu
 
 ---
 
+## ✨ Features
+
+- ➕ Add new tasks
+- ❌ Remove tasks with one click
+- 🧾 Pre-added sample items to show functionality
+- 🎯 Clean and responsive UI
+- 🛠️ Great for practicing core JavaScript concepts
+
+---
+
 ## 🔗 Live Demo
 
 <a href="https://mrunalinipachpute.github.io/todo-js-app/" target="_blank">
@@ -13,15 +23,6 @@ Add and remove tasks instantly — a great mini project for mastering DOM manipu
 
 👉 [Try the app here](https://mrunalinipachpute.github.io/todo-js-app/)
 
----
-
-## ✨ Features
-
-- ➕ Add new tasks
-- ❌ Remove tasks with one click
-- 🧾 Pre-added sample items to show functionality
-- 🎯 Clean and responsive UI
-- 🛠️ Great for practicing core JavaScript concepts
 
 ---
 
