@@ -7,7 +7,9 @@ Add and remove tasks instantly — a great mini project for mastering DOM manipu
 
 ## 🔗 Live Demo
 
-[![To-Do App Preview](https://api.microlink.io/?url=https://mrunalinipachpute.github.io/todo-js-app/&screenshot=true&meta=false&embed=screenshot.url)](https://mrunalinipachpute.github.io/todo-js-app/)
+<a href="https://mrunalinipachpute.github.io/todo-js-app/" target="_blank">
+  <img src="https://api.microlink.io/?url=https://mrunalinipachpute.github.io/todo-js-app/&screenshot=true&meta=false&embed=screenshot.url" alt="To-Do App Live Preview" style="width:100%; max-width:800px; height:auto; border-radius:8px;" />
+</a>
 
 👉 [Try the app here](https://mrunalinipachpute.github.io/todo-js-app/)
 
