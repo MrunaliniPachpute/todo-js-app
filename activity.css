@@ -1,0 +1,67 @@
+.todo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+}
+
+.textAdd{
+    display: flex;
+    align-items: center;
+}
+
+button{
+    font-size: 25px;
+    width: 150px;
+    height: 50px;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+    padding: 5;
+    transition: 0.5s;
+    box-shadow: 1px 5px 5px black;
+}
+
+.del{
+    width: 100px;
+}
+
+.textAdd button:hover{
+    width: 155px;
+    height: 55px;
+}
+
+li{
+    padding: 5px;
+    font-size: 25px;
+    margin: 5px;
+    background-color: bisque;
+}
+
+ul{
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    max-width: 10000px;
+    margin-right: 100px;
+}
+
+
+h1{
+    color: rgb(184, 0, 0);
+}
+
+.input{
+    width: 500px;
+    height: 50px;
+    font-size: 25px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.input::placeholder{
+    
+   display: flex;
+   justify-content: center;
+}
+
+
